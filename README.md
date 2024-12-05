@@ -1,5 +1,5 @@
 # 570Submission
-This contains the github for an implementation for Efiificient Equivariant Subsampling, ES4-Net. The ES4-Net is compared to several baseline models, use the command line interface to select which models to train and demo.
+This contains the github for an implementation for Efiificient Equivariant Subsampling, ES4-Net. The ES4-Net is compared to several baseline models. After running the requirement.txt setup, use the command line interface to select which models to train and demo.
 ### Command line instructions
 python model/main.py <modelName> <trainingOptions>
 
